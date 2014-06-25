@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\bin\Debug\SandCastleTrial.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\bin\Debug\SandCastleTrial.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\bin\Debug\SandCastleTrial.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\bin\Debug\SandCastleTrial.XML
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\obj\Debug\SandCastleTrial.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\obj\Debug\SandCastleTrial.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\SandCastleTrial\obj\Debug\SandCastleTrial.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ToolsTrials\SandCastleTrial\bin\Debug\SandCastleTrial.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ToolsTrials\SandCastleTrial\obj\Debug\SandCastleTrial.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ToolsTrials\SandCastleTrial\obj\Debug\SandCastleTrial.pdb

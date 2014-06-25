@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9d2362f9-2069-4260-b68a-54db92be0428" Title="SandCastleTrial" Url="html/e5fba520-d995-ae4b-6c70-26c58f0ac8d4.htm">
+    <HelpTOCNode Id="b503b085-cd47-44bf-9ece-f9df577fa92f" Title="SimpleMathOperations Class" Url="html/43dca10c-b207-4e89-1966-c3d59162e376.htm">
+      <HelpTOCNode Title="SimpleMathOperations Constructor " Url="html/3c4f2c8e-5797-f36e-14ca-d338b890bb5c.htm" />
+      <HelpTOCNode Id="3d52269f-33e8-455b-b760-6412761349d2" Title="SimpleMathOperations Methods" Url="html/ac37743e-739e-2e62-e979-cb797e4a5733.htm">
+        <HelpTOCNode Title="Divide Method " Url="html/52dc4799-82af-cf75-aa45-2cc8037b3522.htm" />
+        <HelpTOCNode Title="Multiply Method " Url="html/20a251c4-47e6-8aa6-3a50-8b1441bbba62.htm" />
+        <HelpTOCNode Title="Subtract Method " Url="html/5018a153-71ee-b7c8-cf9a-63834598a424.htm" />
+        <HelpTOCNode Title="Sum Method " Url="html/0229b168-2e87-203e-5f9b-09123de10ee0.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

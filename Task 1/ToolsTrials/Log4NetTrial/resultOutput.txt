@@ -1,0 +1,11 @@
+INFO - This is some info to be found in this file.
+FATAL - System.IO.FileNotFoundException: Could not find file 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\TestRun\bin\Debug\unexistingFile.txt'.
+File name: 'C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\TestRun\bin\Debug\unexistingFile.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at TestRun.TestingLog4Net.Main(String[] args) in c:\Users\Administrator\Documents\Visual Studio 2013\Projects\Log4netTrial\TestRun\TestingLog4Net.cs:line 29

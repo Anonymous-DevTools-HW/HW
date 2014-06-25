@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SandCastleTrial</name>
+    </assembly>
+    <members>
+        <member name="T:SandCastleTrial.SimpleMathOperations">
+            <summary>
+            Contains methods performing some simple math operations on integers.
+            </summary>
+        </member>
+        <member name="M:SandCastleTrial.SimpleMathOperations.Sum(System.Int32,System.Int32)">
+            <summary>
+            Sums two integers.
+            </summary>
+            <param name="a">Fitst Integer</param>
+            <param name="b">Second Integer</param>
+            <returns>Result from summing the integers.</returns>
+        </member>
+        <member name="M:SandCastleTrial.SimpleMathOperations.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtracts the second integer from the first.
+            </summary>
+            <param name="a">Fitst Integer</param>
+            <param name="b">Second Integer</param>
+            <returns>Result from subtracting the integers.</returns>
+        </member>
+        <member name="M:SandCastleTrial.SimpleMathOperations.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplies two integers.
+            </summary>
+            <param name="a">Fitst Integer</param>
+            <param name="b">Second Integer</param>
+            <returns>Result from multiplying the integers.</returns>
+        </member>
+        <member name="M:SandCastleTrial.SimpleMathOperations.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divides the firts integer with the second.
+            </summary>
+            <param name="a">Fitst Integer</param>
+            <param name="b">Second Integer</param>
+            <returns>Result from dividing the integers.</returns>
+        </member>
+    </members>
+</doc>
